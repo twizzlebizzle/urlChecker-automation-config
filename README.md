@@ -17,6 +17,12 @@ to the automation JSON settings in the [**URLCheck**](https://github.com/Triangu
 
 </div>
 
+## File Info
+- [Force Open in Browser](https://github.com/twizzlebizzle/urlChecker-automation-config/blob/main/Force%20Open%20in%20Browser%20(referrer).json) - This is an example of how to open an app directly into another app.  In this case Kagi Search engine bypasses the selection screen and directly opens in Firefox_Beta (Side note, the excludee regex skips reddit and youtube - I'm asked to pick them).  
+- [Unshort](https://github.com/twizzlebizzle/urlChecker-automation-config/blob/main/Unshort.json) - Simple rule to automaticall unshort bitly and tinyurl links.  
+- [Wikipedia Direct Open](https://github.com/twizzlebizzle/urlChecker-automation-config/blob/main/Wikipedia_Open.json) - Simple example on how to automatically open Wikipedia links in the wikipedia app.  
+
+
 <!-- ---------- Contribution ---------- -->
 ## Contribution
 
