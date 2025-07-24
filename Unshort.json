@@ -1,0 +1,10 @@
+{
+  "Unshort bit.ly and Tinyurl": {
+    "regex": [
+      "https?:\/\/bit\\.ly\/.*",
+      "https?:\/\/tinyurl\\.com\/.*"
+    ],
+    "action": "unshort",
+    "enabled": true
+  }
+}
