@@ -1,0 +1,15 @@
+{
+  " FFKagiopen": {
+    "excludeRegex": [
+      "https?:\/\/.*reddit.com\/.*",
+      "https?:\/\/.*youtube.com\/.*"
+    ],
+    "referrer": "com.kagi.search",
+    "action": "open",
+    "args": {
+      "package": "org.mozilla.firefox_beta"
+    },
+    "stop": false,
+    "enabled": true
+  }
+}
