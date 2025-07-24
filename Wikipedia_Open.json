@@ -1,0 +1,11 @@
+{
+  "openwiki": {
+    "regex": "https?:\/\/.*wikipedia.org\/.*",
+    "action": "open",
+    "args": {
+      "package": "org.wikipedia"
+    },
+    "stop": false,
+    "enabled": true
+  }
+}
